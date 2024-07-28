@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Katdotbrush
-- 👀 I’m interested in doing whatever cool in my PC
-- 🌱 I’m currently learning Javascript(?)
-- 💞️ I’m looking to collaborate on nothing by now
+![funny](https://media.tenor.com/lCIrFxUAP1EAAAAM/pikuniku-boogie.gif)
+
+I like coding and languages.
 
 
 <!---
